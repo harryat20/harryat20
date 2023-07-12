@@ -2,7 +2,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 # 💫 About Me:
 Hi 👋, I'm Harjinder Singh Saini<br>A passionate developer from India<br><br>👨‍💻 I am currently persuing B.Tech in CSE at Kalinga Institute Of Industrial Technology.<br>
-<img align="right" alt="Coding" width="400"src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+<img align="right" alt="Coding" width="400"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy6NTOOn6PSaxNq69x-FXsIL7OooewPxUyyg&usqp=CAU">
 <br>🔭 I’m currently learning Full-Stack Development<br><br>🌱 I’m currently learning C++,Java,HTML<br><br>📬 How to reach me harjinder2003.02@gmail.com<br><br>⚡ Fun fact I like singing and passionate for coding!
 
 
