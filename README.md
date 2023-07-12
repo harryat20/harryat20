@@ -4,7 +4,7 @@
 
 Hi 👋, I'm Harjinder Singh Saini<br>A passionate developer from India<br><br>
 👨‍💻 I am currently persuing B.Tech in CSE at Kalinga Institute Of Industrial Technology.
-<img name="slide" src="home1.jpg" width="500" height="400" />
+<img name="slide" src="home1.jpg" width="200" height="200" />
 <br><br>🔭 I’m currently learning Full-Stack Development<br><br>🌱 I’m currently learning C++,Java,HTML<br><br>📬 How to reach me harjinder2003.02@gmail.com<br><br>⚡ Fun fact I like singing and passionate for coding!
 
 
