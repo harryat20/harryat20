@@ -1,8 +1,9 @@
 ###
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 # 💫 About Me:
+<img align="right" alt="Coding" width="400"src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy6NTOOn6PSaxNq69x-FXsIL7OooewPxUyyg&usqp=CAU](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 Hi 👋, I'm Harjinder Singh Saini<br>A passionate developer from India<br><br>👨‍💻 I am currently persuing B.Tech in CSE at Kalinga Institute Of Industrial Technology.
-<img align="right" alt="Coding" width="400"src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy6NTOOn6PSaxNq69x-FXsIL7OooewPxUyyg&usqp=CAU](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)"><br><br>🔭 I’m currently learning Full-Stack Development<br><br>🌱 I’m currently learning C++,Java,HTML<br><br>📬 How to reach me harjinder2003.02@gmail.com<br><br>⚡ Fun fact I like singing and passionate for coding!
+<br><br>🔭 I’m currently learning Full-Stack Development<br><br>🌱 I’m currently learning C++,Java,HTML<br><br>📬 How to reach me harjinder2003.02@gmail.com<br><br>⚡ Fun fact I like singing and passionate for coding!
 
 
 ## 🌐 Socials:
