@@ -31,7 +31,7 @@ Hi 👋, I'm Harjinder Singh Saini<br>A passionate developer from India<br><br>
 [![](https://visitcount.itsvg.in/api?id=harryat20&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<a href="https://app.daily.dev/harry_2003"><img src="https://api.daily.dev/devcards/3105d32f65934b6cb20ecdad1bfd4c91.png?r=c9f" width="400" alt="Harjinder Singh Saini's Dev Card"/></a>
+<a href="https://app.daily.dev/harry_2003"><img src="https://api.daily.dev/devcards/3105d32f65934b6cb20ecdad1bfd4c91.png?r=4xz" width="400" alt="Harjinder Singh Saini's Dev Card"/></a>
 
 <!--
 **harryat20/harryat20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
